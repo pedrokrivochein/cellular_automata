@@ -4,7 +4,7 @@
 - Simulação cellular automata feita com pygame.
 
 - This was an experience so i could get to know pygame.
-- Essa foi uma experiência para ganhar conhecimento em pygame.
+- Essa foi uma experiência para eu passar a conhecer pygame.
 
 - There are two modes: Normal and Caves/Islands.
 - Existem dois modo: Normal e Caves/Islands.
