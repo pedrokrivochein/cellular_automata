@@ -14,6 +14,5 @@
 
 ## Screenshots:
 
-![96379e7ffba6540622955530a0a27cc3](https://user-images.githubusercontent.com/27747604/119062390-105dde00-b9ad-11eb-9039-24a6b583033f.gif)
-![730dbd68e349a4ef20aa53801a33368a](https://user-images.githubusercontent.com/27747604/119062393-1489fb80-b9ad-11eb-8302-c7d54c35e708.gif)
+![CellularAutomata](https://user-images.githubusercontent.com/27747604/119174331-d5a48600-ba3e-11eb-9ebe-901216000577.gif)
 ![image](https://user-images.githubusercontent.com/27747604/119062364-f7552d00-b9ac-11eb-8142-81d4df0cfd6b.png)
