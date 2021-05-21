@@ -1,7 +1,7 @@
 # Cellular Automata Simulation
 
 - Cellular automata simulation made with pygame.
-- Simulação cellular automata feita com pygame.
+- Simulação "cellular automata" feita com pygame.
 
 - This was an experience so i could get to know pygame.
 - Essa foi uma experiência para eu passar a conhecer pygame.
