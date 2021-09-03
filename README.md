@@ -10,7 +10,7 @@
 - Existem dois modo: Normal e Caves/Islands.
 
 - You can also change the size of the cells.
-- Você também pode alterar o tamanho da célula.
+- Você também pode alterar o tamanho das células.
 
 ## Screenshots:
 
